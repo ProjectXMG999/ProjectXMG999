@@ -1,7 +1,7 @@
 
 ---
 
-### : About Me :
+###  About Me :
 
 I am a Junior Data Scientist 
 
