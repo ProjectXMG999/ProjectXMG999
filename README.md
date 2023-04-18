@@ -3,7 +3,7 @@
 
 ###  About Me :
 
-I am a Junior Data Scientist 
+I am a Junior Data Scientist from Poland / Poznan City
 
 I have strong background in machine learning, and a passion for exploring the possibilities of artificial intelligence. From the new academic year, I am starting part-time studies in the field of data science. Although I have no professional experience on this postion(AI enginer/ Data scientist), I have gained extensive knowledge and hands-on experience through my coursework and personal projects.
 
