@@ -12,9 +12,9 @@ I am well-versed in a range of machine learning techniques, including natural la
 I am also proficient in various Python libraries, including Numpy, Pandas, Data visualization with seaborn and matplotlib, Web Scrapping with selenium and BeautifulSoup, Tensorflow, PyTorch, Scikit-Learn, and Keras. I have also knowledge of Azure Platform, especially in the field of Data science and AI
 
 My personal projects have given me the opportunity to work with real-world datasets and develop my skills in data preprocessing, feature engineering, model selection, and optimization. I have also honed my problem-solving skills and developed a strong ability to work independently and collaboratively.
-- :How to reach me:
+- How to reach me:
 
-- Projektmg10@gmail.com
+Projektmg10@gmail.com
 
 <div id="badges">
   
